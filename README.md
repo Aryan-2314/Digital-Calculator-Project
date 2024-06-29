@@ -1,2 +1,2 @@
-# Digital-Calculator-Project
+# Digital-Calculator-Project using HTML, CSS, JS.
  
